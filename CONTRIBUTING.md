@@ -116,7 +116,7 @@ To get started, all you need is to setup python3. Your Linux distribution's pyth
 
 ### Improving The Documentation
 
-If improving the documentation or correcting it. Follow the already-established tone and theme of the documentation. For adding a new page, see other pages of the documentation as a template on how it should be structued.
+If improving the documentation or correcting it. Follow the already-established tone and theme of the documentation. For adding a new page, see other pages of the documentation as a template on how it should be structured.
 
 ## Styleguides
 ### Commit Messages
